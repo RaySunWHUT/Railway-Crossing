@@ -1,0 +1,103 @@
+[{
+        "balusterId": 1,
+        "balusterName": "A1",
+        "balusterStatus": "00",
+        "crossingId": 1
+    },
+    {
+        "balusterId": 2,
+        "balusterName": "A2",
+        "balusterStatus": "00",
+        "crossingId": 1
+    },
+    {
+        "balusterId": 3,
+        "balusterName": "A3",
+        "balusterStatus": "00",
+        "crossingId": 1
+    },
+    {
+        "balusterId": 4,
+        "balusterName": "A4",
+        "balusterStatus": "00",
+        "crossingId": 1
+    },
+    {
+        "balusterId": 5,
+        "balusterName": "A5",
+        "balusterStatus": "00",
+        "crossingId": 1
+    },
+    {
+        "balusterId": 6,
+        "balusterName": "A6",
+        "balusterStatus": "00",
+        "crossingId": 1
+    },
+    {
+        "balusterId": 7,
+        "balusterName": "A7",
+        "balusterStatus": "00",
+        "crossingId": 1
+    },
+    {
+        "balusterId": 8,
+        "balusterName": "A8",
+        "balusterStatus": "00",
+        "crossingId": 1
+    },
+    {
+        "balusterId": 9,
+        "balusterName": "B1",
+        "balusterStatus": "00",
+        "crossingId": 2
+    },
+    {
+        "balusterId": 10,
+        "balusterName": "B2",
+        "balusterStatus": "00",
+        "crossingId": 2
+    },
+    {
+        "balusterId": 11,
+        "balusterName": "B3",
+        "balusterStatus": "00",
+        "crossingId": 2
+    },
+    {
+        "balusterId": 12,
+        "balusterName": "B4",
+        "balusterStatus": "00",
+        "crossingId": 2
+    },
+    {
+        "balusterId": 13,
+        "balusterName": "B5",
+        "balusterStatus": "00",
+        "crossingId": 2
+    },
+    {
+        "balusterId": 14,
+        "balusterName": "B6",
+        "balusterStatus": "00",
+        "crossingId": 2
+    },
+    {
+        "balusterId": 15,
+        "balusterName": "B7",
+        "balusterStatus": "00",
+        "crossingId": 2
+    },
+    {
+        "balusterId": 16,
+        "balusterName": "C1",
+        "balusterStatus": "00",
+        "crossingId": 3
+    },
+    {
+        "balusterId": 17,
+        "balusterName": "C2",
+        "balusterStatus": "00",
+        "crossingId": 3
+    }
+]

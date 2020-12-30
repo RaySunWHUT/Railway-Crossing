@@ -1,0 +1,19 @@
+[{
+        "crossingId": 1,
+        "crossingName": "凌志西",
+        "crossingGPS": "green",
+        "crossingMode": 0
+    },
+    {
+        "crossingId": 2,
+        "crossingName": "石头村",
+        "crossingGPS": "green",
+        "crossingMode": 0
+    },
+    {
+        "crossingId": 3,
+        "crossingName": "石头油库",
+        "crossingGPS": "green",
+        "crossingMode": 0
+    }
+]

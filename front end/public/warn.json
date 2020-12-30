@@ -1,0 +1,20 @@
+[
+{
+    "warningId": 0,
+    "warningContent": "与道口断开连接 2020-12-24 21:46:59",
+    "crossingId": 1
+}, {
+    "warningId": 1,
+    "warningContent": "与道口断开连接 2020-12-24 21:46:59",
+    "crossingId": 2
+}, {
+    "warningId": 2,
+    "warningContent": "与道口断开连接 2020-12-24 21:46:59",
+    "crossingId": 3
+},{
+    "warningId": 3,
+    "warningContent": "与道口断开连接 2020-12-24 22:46:59",
+    "crossingId": 1
+}
+
+]

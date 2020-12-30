@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.railwaycrossing.dao.UserDao">
+<!--    <insert id="register">-->
+<!--        insert into user (userAccount, salt, password, roleId) values (#{userAccount}, #{salt}, #{password})-->
+<!--    </insert>-->
+
+    <insert id="saveUser">
+        insert into user (userName, userAccount, password, roleId, salt)
+        values (#{userName}, #{userAccount}, #{password}, #{roleId}, #{salt});
+    </insert>
+
+    <select id="getUserByUserAccount" resultType="com.railwaycrossing.entity.User">
+        select * from user where userAccount=#{userAccount};
+    </select>
+
+    <select id="listOneUser" resultType="com.alibaba.fastjson.JSONObject">
+        select u.userId, u.userAccount, u.userName, r.roleName, u.lastLoginTime from user u inner join role r on u.roleId = r.roleId where userAccount = #{userAccount};
+    </select>
+
+    <select id="getRoleByUserAccount" resultType="com.alibaba.fastjson.JSONObject">
+        select roleName from user u, role r where u.userAccount = #{userAccount} and u.roleId = r.roleId;
+    </select>
+
+    <update id="updateLoginTime">
+        update user set lastLoginTime = #{lastLoginTime} where userAccount = #{userAccount};
+    </update>
+
+</mapper>

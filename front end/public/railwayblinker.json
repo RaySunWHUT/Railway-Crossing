@@ -1,0 +1,31 @@
+[{
+        "crossingId": 1,
+        "railwayBlinkerId": 1,
+        "railwayBlinkerStatus": 0
+    },
+    {
+        "crossingId": 1,
+        "railwayBlinkerId": 2,
+        "railwayBlinkerStatus": 0
+    },
+    {
+        "crossingId": 2,
+        "railwayBlinkerId": 3,
+        "railwayBlinkerStatus": 0
+    },
+    {
+        "crossingId": 2,
+        "railwayBlinkerId": 4,
+        "railwayBlinkerStatus": 0
+    },
+    {
+        "crossingId": 3,
+        "railwayBlinkerId": 5,
+        "railwayBlinkerStatus": 0
+    },
+    {
+        "crossingId": 3,
+        "railwayBlinkerId": 6,
+        "railwayBlinkerStatus": 0
+    }
+]

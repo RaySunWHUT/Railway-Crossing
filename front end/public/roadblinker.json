@@ -1,0 +1,31 @@
+[{
+        "crossingId": 1,
+        "roadBlinkerId": 1,
+        "roadBlinkerStatus": 1
+    },
+    {
+        "crossingId": 1,
+        "roadBlinkerId": 2,
+        "roadBlinkerStatus": 1
+    },
+    {
+        "crossingId": 2,
+        "roadBlinkerId": 3,
+        "roadBlinkerStatus": 1
+    },
+    {
+        "crossingId": 2,
+        "roadBlinkerId": 4,
+        "roadBlinkerStatus": 1
+    },
+    {
+        "crossingId": 3,
+        "roadBlinkerId": 5,
+        "roadBlinkerStatus": 1
+    },
+    {
+        "crossingId": 3,
+        "roadBlinkerId": 6,
+        "roadBlinkerStatus": 1
+    }
+]
